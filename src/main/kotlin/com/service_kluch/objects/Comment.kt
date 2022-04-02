@@ -39,8 +39,8 @@ data class Comment (
     val replyToComment: Int = 0,
     /**
      * Медиавложения комментария (фотографии, ссылки и т.п.).
-     */
-    /*val attachments: Attachment? = null,*/
+     *
+     * val attachments: Attachment? = null,*/
     /**
      * Массив идентификаторов родительских комментариев.
       */
